@@ -1,0 +1,6 @@
+.build/
+.swiftpm/
+*.xcodeproj
+Package.resolved
+Tools/ThemesBench/.build/
+Tools/ThemesBench/.swiftpm/
